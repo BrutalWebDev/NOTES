@@ -1,0 +1,15 @@
+.items {
+    padding-left: 15px;
+}
+
+.items_h4 {
+    margin-top: 15px;
+}
+
+.items_p {
+    color: #999999;
+}
+
+.items:hover {
+    background-color: #b4b4b4;
+}

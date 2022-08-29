@@ -1,0 +1,12 @@
+.header {
+    color: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: 3%;
+    padding: 0;
+}
+
+.header_h1 {
+    margin-bottom: 2rem;
+}
