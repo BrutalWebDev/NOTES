@@ -7,7 +7,7 @@ import Notes from './components/notes/Index';
 
 function App() {
   return (
-    <div className="row ">
+    <div className="row">
       <Header />
       <Notes />
       <Note />

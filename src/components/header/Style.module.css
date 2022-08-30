@@ -5,8 +5,18 @@
     width: 80%;
     margin-top: 3%;
     padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 5.8rem;
+    
 }
 
 .header_h1 {
     margin-bottom: 2rem;
+}
+
+.header_button {
+    margin-top: 8px;
+    height: 40px;
+    width: 40px;
 }
